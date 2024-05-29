@@ -31,8 +31,8 @@ export default defineConfig({
       {
         text: '支持与赞助',
         items: [
-          { text: '赞助我们', link: '/markdown-examples' },
-          { text: '文档开发维护', link: '/api-examples' }
+          { text: '赞助我们', link: '/Support_us/assist ' },
+          { text: '文档开发维护', link: '/Support_us/help3winddoc' }
         ]
       },
       {
