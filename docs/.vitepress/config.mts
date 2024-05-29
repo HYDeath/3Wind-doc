@@ -29,10 +29,10 @@ export default defineConfig({
         ]
       },
       {
-        text: '介绍',
+        text: '支持与赞助',
         items: [
-          { text: '查看帮助文档', link: '/markdown-examples' },
-          { text: '加入服务器', link: '/api-examples' }
+          { text: '赞助我们', link: '/markdown-examples' },
+          { text: '文档开发维护', link: '/api-examples' }
         ]
       },
       {
