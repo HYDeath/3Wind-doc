@@ -22,24 +22,10 @@ export default defineConfig({
         ]
       },
       {
-        text: '介绍',
-        items: [
-          { text: '查看帮助文档', link: '/markdown-examples' },
-          { text: '加入服务器', link: '/api-examples' }
-        ]
-      },
-      {
         text: '支持与赞助',
         items: [
           { text: '赞助我们', link: '/Support_us/assist ' },
           { text: '文档开发维护', link: '/Support_us/help3winddoc' }
-        ]
-      },
-      {
-        text: '介绍',
-        items: [
-          { text: '查看帮助文档', link: '/markdown-examples' },
-          { text: '加入服务器', link: '/api-examples' }
         ]
       }
     ],
