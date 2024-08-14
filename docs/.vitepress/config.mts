@@ -98,16 +98,15 @@ export default defineConfig({
           ]
         },
 
-
-
         {
-          text: '指令大全',
-          link: "/faq/directives"
-        },
-
-        {
-          text: '封禁、解封与举报',
-          link: '/faq/ban/'
+        text: '游戏帮助',
+        link: "/gamehelp/",
+        collapsed: true,
+        items: [
+           { text: `指令大全`, link: "/faq/directives" },
+           { text: `使用假人`, link: "/faq/jiaren" },
+           { text: `封禁、解封与举报`, link: "/faq/ban" },
+          ]
         },
 
         {
