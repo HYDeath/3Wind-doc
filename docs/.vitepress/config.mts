@@ -130,7 +130,7 @@ export default defineConfig({
           collapsed: true,
           link: "/groups/",
           items: [
-            // { text: '动漫社', link: "/groups/DMS" },
+            { text: '朱雀城', link: "/groups/zhuque" },
             // { text: '莱文市', link: "/groups/LWS" },
             // { text: '苏维埃', link: "/groups/SWA" },
             // { text: '芋泥蛋糕', link: "/groups/YNDG" },
