@@ -77,8 +77,9 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: "服务器介绍", link: "/introduce/" },
-            { text: `正版养老服`, link: "/introduce/yanglao" },
-            { text: `公开特色服`, link: "/introduce/tese" },
+            { text: `新世界-原版生存服`, link: "/introduce/NewWorld_VanillaSurvival" },
+            // { text: `正版养老服`, link: "/introduce/yanglao" },
+            // { text: `公开特色服`, link: "/introduce/tese" },
             // { text: `正版生电服`, link: "/introduce/shengdian" },
             // { text: `公开粘液服`, link: "/introduce/nianye" },
             // { text: `公开游戏服`, link: "/introduce/game" },
@@ -131,13 +132,6 @@ export default defineConfig({
           link: "/groups/",
           items: [
             { text: '朱雀城', link: "/groups/zhuque" },
-            // { text: '莱文市', link: "/groups/LWS" },
-            // { text: '苏维埃', link: "/groups/SWA" },
-            // { text: '芋泥蛋糕', link: "/groups/YNDG" },
-            // { text: '璃虹港', link: "/groups/LHG" },
-            // { text: '约翰山庄', link: "/groups/YHSZ" },
-            // { text: '青鸾共和社', link: "/groups/QLGHS" },
-            // { text: '南植重工基地', link: "/groups/NZZGJD" },
           ]
         },
 
