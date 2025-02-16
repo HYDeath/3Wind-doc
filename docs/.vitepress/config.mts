@@ -77,7 +77,7 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: "服务器介绍", link: "/introduce/" },
-            { text: `新世界-原版生存服`, link: "/introduce/NewWorld_VanillaSurvival" },
+            { text: `新世界-趣味生存服`, link: "/introduce/NewWorld_InterestingSurvival" },
             // { text: `正版养老服`, link: "/introduce/yanglao" },
             // { text: `公开特色服`, link: "/introduce/tese" },
             // { text: `正版生电服`, link: "/introduce/shengdian" },
@@ -100,13 +100,14 @@ export default defineConfig({
         },
 
         {
-        text: '游戏帮助',
-        link: "/faq/directives",
+        text: '趣味生存服',
+        link: "/InterestingSurvival/IS_Directives",
         collapsed: true,
         items: [
-           { text: "指令大全", link: "/faq/directives" },
-           { text: `使用假人`, link: "/faq/jiaren" },
-           { text: `封禁、解封与举报`, link: "/faq/ban" },
+           { text: "Q&A", link: "/InterestingSurvival/IS_QA" },
+           { text: "指令大全", link: "/InterestingSurvival/IS_Directives" },
+           { text: `使用假人`, link: "/InterestingSurvival/IS_jiaren" },
+           { text: `封禁、解封与举报`, link: "/InterestingSurvival/IS_ban" },
           ]
         },
 

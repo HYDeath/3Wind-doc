@@ -2,7 +2,7 @@
 
 ## 服务器选择
 
-- 新世界目前有两个子服，[**原版生存服**](/introduce/NewWorld_VanillaSurvival)和[**怀旧养老服服**](/introduce/yanglao)[暂未开放]，两个服务器的受众和玩家不同，请谨慎选择
+- 新世界目前有两个子服，[**趣味生存服**](/introduce/NewWorld_InterestingSurvival)和[**怀旧养老服服**](/introduce/yanglao)[暂未开放]，两个服务器的受众和玩家不同，请谨慎选择
 
 ## 进入服务器
 
