@@ -6,7 +6,7 @@
 
 ## 我不知道指令如何使用
 
-请前往[**指令文档**](/InterestingSurvival/IS_QA)查看，若没有你所需要的，请找服主进行添加/找OP进行询问
+请前往[**指令文档**](/InterestingSurvival/IS_directives)查看，若没有你所需要的，请找服主进行添加/找OP进行询问
 
 ## 基岩版可以游玩吗？
 

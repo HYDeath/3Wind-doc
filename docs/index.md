@@ -12,7 +12,7 @@ hero:
       link: 'https://3wind.cn'
     - theme: alt
       text: 指令文档
-      link: /faq/directives
+      link: /InterestingSurvival/IS_directives
     - theme: alt
       text: 玩家守则
       link: /rules
